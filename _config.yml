@@ -1,7 +1,5 @@
-author: SnowmanJimmy
-theme: jekyll-theme-hacker
-paginate: 5
+name: SnowmanJimmy, on my IT Security journey
+markdown: kramdown
 
 plugins: 
   - jemoji
-  - jekyll-paginate
