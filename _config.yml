@@ -1,5 +1,7 @@
 author: SnowmanJimmy
 theme: jekyll-theme-hacker
+paginate: 5
 
 plugins: 
   - jemoji
+  - jekyll-paginate
