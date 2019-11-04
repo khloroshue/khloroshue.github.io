@@ -1,4 +1,5 @@
 body {
+    background: #151515 url("../assets/images/bkg.png") 0 0;
     margin: 60px auto;
     width: 70%;
 }
