@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SnowmanJimmy's First Blog Post"
+title: "Khloroshue's First Blog Post"
 date: 2019-11-02
 ---
 
