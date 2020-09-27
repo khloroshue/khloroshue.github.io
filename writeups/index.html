@@ -3,7 +3,7 @@ layout: default
 title: Khloroshue - Writeups
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="writeups">
+	<ul class="posts">
 
 		{% for writeup in site.writeups %}
 		  <li><span>{{ writeup.date | date_to_string }}</span> » <a href="{{ writeup.url }}" title="{{ writeup.title }}">{{ writeup.title }}</a></li>
