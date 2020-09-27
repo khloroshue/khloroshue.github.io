@@ -53,3 +53,12 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+ul.writeups {
+    margin: 20px auto 40px;
+    font-size: 1.5em;
+}
+
+ul.writeups li {
+    list-style: none;
+}
