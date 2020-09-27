@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: writeup
 title: "HTB Writeup - Doctor"
 date: 2020-09-27
 ---
@@ -65,7 +65,7 @@ The first thing I noticed in this list was the output from the `http-robots.txt`
 ## Webpage Enumeration
 
 Opened the webpage for the service running on the odd web port `8089`. 
-![afbb4b55685342200f04301a86130cd3.png](:/d342b1d4cdd24286830cdabfa3936bcb)
+![afbb4b55685342200f04301a86130cd3.png](../assets/images/writeups/d342b1d4cdd24286830cdabfa3936bcb)
 Opening all of the different links required a basic HTTP Auth - tried common culprits `admin/admin`, `admin/password`, `splunk/splunk`, and `admin/changeme` - which is documented to be the standard admin password for a fresh Splunk instance -- none of these worked.
 
 
